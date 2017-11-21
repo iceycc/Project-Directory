@@ -4,7 +4,7 @@
 
 * 项目类
   * [iceyang](https://github.com/iceycc/iceyang)  基于php的网站管理系统,待完善 
-  * [一品购]()  一个小的电商小项目,待完善
+  * [一品购](https://github.com/iceycc/YiPinGou)  一个小的电商小项目,待完善
   * ​
 * 案例类
   * [static pages](https://github.com/iceycc/Static-page-exercise-) 	拿来练手的静态页面练习 
@@ -17,5 +17,13 @@
   * [learning-notes](https://github.com/iceycc/learning-notes)  平时的一些学习比较,有待整理
 
   * [Skill Tree](https://github.com/iceycc/Skill-Tree)   技能树 ,多多学习 一些小技能
+*  收藏夹
+  *  [《css解密》](https://github.com/cssmagic/CSS-Secrets)
+
+  *  [《ECMAScript 6 入门》](https://github.com/ruanyf/es6tutorial)
+
+  *  ​
+
+    ​
 
     ​

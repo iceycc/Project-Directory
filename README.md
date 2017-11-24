@@ -10,7 +10,8 @@
 * 案例类
 
   * [myMusic](https://github.com/iceycc/myMusic)   我的音乐管理网站
-  * [static pages](https://github.com/iceycc/Static-page-exercise-) 	拿来练手的静态页面练习 
+  * [mall-page-fullpage](https://github.com/iceycc/Static-page-exercise-/tree/master/mall-page-fullpage)   滚滚屏+css动画实现的购物类首页,用到了fullpage.js
+  * [static pages](https://github.com/iceycc/Static-page-exercise-) 拿来练手的静态页面练习 
   * [Adventure-Island-2](https://github.com/iceycc/Adventure-Island-2)  和小伙伴一起实现的,提纲 项目主体为提交
   * [case-aggregate](https://github.com/iceycc/case-aggregate)  收藏一些开发学习过程中的不错的小特效,小插件的demo,及用到的知识点记录下
   * [myAlbulm](https://github.com/iceycc/myAlbum)  一个基于node的简单的相册小案例

@@ -9,6 +9,7 @@
 
 * 案例类
 
+  * [myHeros](https://github.com/iceycc/vue-demo1-herosl)  用vue简单的实现一个英雄列表的展示 添加 修改 删除 
   * [myMusic](https://github.com/iceycc/myMusic)   我的音乐管理网站
   * [mall-page-fullpage](https://github.com/iceycc/Static-page-exercise-/tree/master/mall-page-fullpage)   滚滚屏+css动画实现的购物类首页,用到了fullpage.js
   * [static pages](https://github.com/iceycc/Static-page-exercise-) 拿来练手的静态页面练习 

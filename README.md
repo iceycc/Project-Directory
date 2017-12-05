@@ -6,6 +6,7 @@
   * [点滴](https://github.com/iceycc/iceyang)  基于php的网站管理系统,待完善 
   * [一品购](https://github.com/iceycc/YiPinGou)  一个小的电商小项目,待完善
   * 百惠网   移动端的购物网站
+  * [mobile_web_vue](https://github.com/iceycc/mobile_web_vue)   利用vue.js结合webpack技术实现一套类似于内容管理(CMS)系统的移动web站点
 
 * 案例类
 
@@ -28,15 +29,11 @@
   * [learning-notes](https://github.com/iceycc/learning-notes)  平时的一些学习比较,有待整理
   * [Skill Tree](https://github.com/iceycc/Skill-Tree)   技能树 ,多多学习 一些小技能
 
-*  收藏夹
+* 收藏夹
   *  [《css解密》](https://github.com/cssmagic/CSS-Secrets)
 
   *  [《ECMAScript 6 入门》](https://github.com/ruanyf/es6tutorial)
 
   *  [element](https://github.com/ElemeFE/element)   饿了么出品的Vue2的web UI工具套件
-
-  *  ​
-
-    ​
-
-    ​
+* 个人
+  * [个人简历模版1](http://cv.icey.cc/)   `https://cv.icey.cc`

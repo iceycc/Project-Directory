@@ -3,7 +3,7 @@
 ---
 
 * 项目类  
-  * [bc-center](https://github.com/iceycc/my-project) 从0开始 vue项目实战 持续更新  
+  * [bc-center](https://github.com/iceycc/my-project) 从0开始 vue项目实战 持续更新
   * [index静态](https://github.com/iceycc/index_ope) 小小的静态页面实战
   * [点滴](https://github.com/iceycc/iceyang)  基于php的网站管理系统,待完善 
   * [一品购](https://github.com/iceycc/YiPinGou)  一个小的电商小项目,待完善

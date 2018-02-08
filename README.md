@@ -3,9 +3,9 @@
 ---
 
 * 项目类  
-  * [bc-center](https://github.com/iceycc/my-project) 从0开始 vue项目实战 持续更新
-  * [index静态](https://github.com/iceycc/index_ope) 小小的静态页面实战
-  * [点滴](https://github.com/iceycc/iceyang)  基于php的网站管理系统,待完善 
+  * [bc-center](https://github.com/iceycc/my-project) 从0开始 vue项目实战 持续更新  
+  * [index静态](https://github.com/iceycc/index_ope) 小小的静态页面实战  
+  * [点滴](https://github.com/iceycc/iceyang)  基于php的网站管理系统,待完善  
   * [一品购](https://github.com/iceycc/YiPinGou)  一个小的电商小项目,待完善
   * 百惠网   移动端的购物网站
   * [mobile_web_vue](https://github.com/iceycc/mobile_web_vue)   利用vue.js结合webpack技术实现一套类似于内容管理(CMS)系统的移动web站点

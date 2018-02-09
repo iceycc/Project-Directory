@@ -37,5 +37,11 @@
   *  [《ECMAScript 6 入门》](https://github.com/ruanyf/es6tutorial)
 
   *  [element](https://github.com/ElemeFE/element)   饿了么出品的Vue2的web UI工具套件
+* 工具类
+  *  [gulp自动化项目结构](https://github.com/iceycc/gulp-project-directories)
+
+  *  [vue-cli](https://github.com/ruanyf/es6tutorial)
+
+  *  [other](https://github.com/ElemeFE/element)   
 * 个人
   * [个人简历模版1](http://cv.icey.cc/)   `https://cv.icey.cc`

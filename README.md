@@ -43,4 +43,7 @@
   *  [other](https://github.com/ElemeFE/element)  
   
 * 个人  
-  * [个人简历模版1](http://cv.icey.cc/)   `https://cv.icey.cc`
+  * [个人简历模版1](http://cv.icey.cc/)   `https://cv.icey.cc`  
+* bolg [链接](http://w@icey.cc/)  
+  * [jsonp简单应用](https://github.com/iceycc/Blog1_esayJsonp)
+

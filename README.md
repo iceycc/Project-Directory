@@ -1,7 +1,9 @@
 ###  github目录(重在坚持)
 
 ---
-
+* 个人
+  * [个人博客](https://wang.icey.cc)
+  * [前端杂货铺](https://docs.icey.cc) 主要用于整理前端知识的
 * 项目类  
   * [bc-center](https://github.com/iceycc/my-project) 从0开始 vue项目实战 持续更新  
   * [index静态](https://github.com/iceycc/index_ope) 小小的静态页面实战  
@@ -18,7 +20,7 @@
   * [myMusic](https://github.com/iceycc/myMusic)   我的音乐管理网站
   * [mall-page-fullpage](https://github.com/iceycc/Static-page-exercise-/tree/master/mall-page-fullpage)   滚滚屏+css动画实现的购物类首页,用到了fullpage.js
   * [static pages](https://github.com/iceycc/Static-page-exercise-) 拿来练手的静态页面练习 
-  * [Adventure-Island-2](https://github.com/iceycc/Adventure-Island-2)  和小伙伴一起实现的,提纲 项目主体为提交
+  * [Adventure-Island-2](https://github.com/iceycc/Adventure-Island-2)  
   * [case-aggregate](https://github.com/iceycc/case-aggregate)  收藏一些开发学习过程中的不错的小特效,小插件的demo,及用到的知识点记录下
   * [myAlbulm](https://github.com/iceycc/myAlbum)  一个基于node的简单的相册小案例
   * [vue-project](https://github.com/iceycc/vue-projecr)   vue笔记及相关小案例
@@ -44,6 +46,6 @@
   
 * 个人  
   * [个人简历模版1](http://cv.icey.cc/)   `https://cv.icey.cc`  
-* bolg [链接](http://w@icey.cc/)  
+* bolg [链接](http://wang@icey.cc/)  
   * [jsonp简单应用](https://github.com/iceycc/Blog1_esayJsonp)
 

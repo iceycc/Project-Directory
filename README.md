@@ -1,6 +1,8 @@
 ###  github目录(重在坚持)
 
 ---
+* 重点更新
+  * [基于d2Admin的后台管理系统](https://iceycc.github.io/iceyang-admin/#/index)
 * 个人
   * [个人博客](https://wang.icey.cc)
   * [前端杂货铺](https://docs.icey.cc) 主要用于整理前端知识的

@@ -3,12 +3,8 @@
 
 ## 近期计划
 - [ ] [前端进阶-全方位](https://github.com/iceycc/A-study-project) 
-    - [ ] react + react-router + redux
-    - [x] promise
-    - [x] es6 base
-
-- [ ] vue文档详读
-- [ ] weback文档详读
+- [ ] [vue文档详读](./1.plan.md)
+- [ ] [weback文档详读]()
 
  
 

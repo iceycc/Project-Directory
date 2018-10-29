@@ -2,11 +2,20 @@
 
 
 ## 近期计划
--[ ] [前端知识点进阶]
+- [ ] [前端进阶-全方位](https://github.com/iceycc/A-study-project) 
+    - [ ] react + react-router + redux
+    - [x] promise
+    - [x] es6 base
+
+- [ ] vue文档详读
+- [ ] weback文档详读
+
+ 
+
 
 ---
 ### 杂七杂八
-* 重点更新
+* 更新中
   * [基于d2Admin的后台管理系统](https://iceycc.github.io/iceyang-admin/#/index)
 * 个人
   * [个人博客](https://wang.icey.cc)
